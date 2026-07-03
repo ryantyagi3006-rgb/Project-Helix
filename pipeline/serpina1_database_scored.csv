@@ -1,0 +1,567 @@
+variant_name,clinvar_significance,clinvar_review_status,clinvar_conflicting,gnomad_af,freq_status,gnomad_key,old_class,new_class,evidence_that_moved_it,am_pathogenicity,am_class,insilico_code,provisional_lean
+NM_000295.5(SERPINA1):c.1065G>T (p.Lys355Asn),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379464-C-A,,,,0.4855,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.32T>C (p.Leu11Pro),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383206-A-G,,,,0.3106,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.78T>G (p.Asp26Glu),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383160-A-C,,,,0.1036,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.858C>T (p.His286=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380930-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.57C>T (p.Val19=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383181-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1243C>A (p.Pro415Thr),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378463-G-T,,,,0.5943,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.920C>T (p.Ser307Phe),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379609-G-A,,,,0.4424,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.809G>A (p.Gly270Asp),Uncertain significance,"criteria provided, single submitter",no,6.57497e-06,found,14-94380979-C-T,,,,0.5524,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.-5+1G>C,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.23G>A (p.Gly8Asp),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383215-C-T,,,,0.3733,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.646+16del,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.523G>A (p.Glu175Lys),Uncertain significance,"criteria provided, single submitter",no,5.25127e-05,found,14-94382715-C-T,,,,0.0836,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1251A>G (p.Gln417=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378455-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.646+7T>G,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.213C>G (p.Ser71Arg),Likely benign,"criteria provided, single submitter",no,1.31366e-05,found,14-94383025-G-C,,,,0.2552,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1174A>G (p.Lys392Glu),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378532-T-C,,,,0.1860,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.-4-7C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1066-25G>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.49T>C (p.Cys17Arg),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383189-A-G,,,,0.4564,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.964G>C (p.Asp322His),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379565-C-G,,,,0.3278,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.872T>C (p.Leu291Pro),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94380916-A-G,,,,0.8953,likely_pathogenic,PP3,Lean pathogenic
+NM_001127704.2(SERPINA1):c.-298+137C>T,,,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.-5+20C>T,,,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.840T>A (p.Asp280Glu),,,no,6.57402e-06,found,14-94380948-A-T,,,,0.2327,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1065+1G>A,,,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1065+2T>G,,,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.*854T>A,,,no,0,absent,14-94377595-A-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.979dup (p.Leu327fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94379550-GG-GGG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.119A>C (p.His40Pro),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383119-T-G,,,,0.0691,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.613_614dup (p.Ala207fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382624-AC-ACAC,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.323T>G (p.Leu108Arg),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382915-A-C,,,,0.1465,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.120T>C (p.His40=),Likely benign,"criteria provided, single submitter",no,1.97081e-05,found,14-94383118-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.628A>T (p.Asn210Tyr),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94382610-T-A,,,,0.8483,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.882T>C (p.Asp294=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380906-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.918-14T>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.917+1G>A,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1135del (p.Ala379fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94378571-CC-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.180C>T (p.Ser60=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383058-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.243C>T (p.Ile81=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382995-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.549T>C (p.Asp183=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382689-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1038A>G (p.Thr346=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379491-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.917+12A>G,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1066-14T>G,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1065+10C>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1045G>C (p.Ala349Pro),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379484-C-G,,,,0.1897,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.394A>G (p.Ser132Gly),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382844-T-C,,,,0.0797,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1124T>C (p.Met375Thr),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.97322e-05,found,14-94378582-A-G,,,,0.0380,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.325A>T (p.Thr109Ser),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382913-T-A,,,,0.1455,likely_benign,BP4,Conflicting signals
+GRCh37/hg19 14q31.1-32.2(chr14:79886061-96870809)x1,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.592A>G (p.Lys198Glu),Uncertain significance,"criteria provided, single submitter",no,1.31373e-05,found,14-94382646-T-C,,,,0.0850,likely_benign,BP4,Conflicting signals
+NM_000295.4(SERPINA1):c.-51dupC,Uncertain significance,no assertion criteria provided,no,0,absent,14-94388606-GGG-GGGG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-4C>T,Likely benign,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.172G>A (p.Ala58Thr),Uncertain significance,no assertion criteria provided,no,7.22781e-05,found,14-94383066-C-T,,,,0.1163,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.553G>A (p.Val185Met),Uncertain significance,no assertion criteria provided,no,7.22591e-05,found,14-94382685-C-T,,,,0.5213,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1156C>G (p.Pro386Ala),Uncertain significance,"criteria provided, single submitter",no,7.23028e-05,found,14-94378550-G-C,,,,0.1241,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.41G>A (p.Gly14Asp),Uncertain significance,no assertion criteria provided,no,0,absent,14-94383197-C-T,,,,0.6764,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.784T>C (p.Trp262Arg),Uncertain significance,no assertion criteria provided,no,0,absent,14-94381004-A-G,,,,0.5301,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1074T>A (p.His358Gln),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378632-A-T,,,,0.7084,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1138A>G (p.Ile380Val),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378568-T-C,,,,0.1240,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1211A>G (p.Lys404Arg),Uncertain significance,"criteria provided, single submitter",no,1.31458e-05,found,14-94378495-T-C,,,,0.0747,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.754_764dup (p.His255fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94381024-TGCTGGATGTT-TGCTGGATGTTTGCTGGATGTT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.290dup (p.His97fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94382948-T-TT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1133_1134insTA (p.Glu378fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94378573-T-TAT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.940A>C (p.Lys314Gln),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379589-T-G,,,,0.2777,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.918G>A (p.Arg306=),Likely benign,"criteria provided, single submitter",no,2.62829e-05,found,14-94379611-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1157C>G (p.Pro386Arg),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378549-G-C,,,,0.1679,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.115C>T (p.His39Tyr),Uncertain significance,no assertion criteria provided,no,0,absent,14-94383123-G-A,,,,0.0897,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1014T>C (p.Asn338=),Benign,"criteria provided, single submitter",no,6.73609e-05,found,14-94379515-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.987_988insT (p.Leu330fs),Benign,no assertion criteria provided,no,0,absent,14-94379542--A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.969G>C (p.Leu323=),Likely benign,no assertion criteria provided,no,4.01075e-05,found,14-94379560-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1020T>C (p.Ala340=),Likely benign,no assertion criteria provided,no,7.409e-05,found,14-94379509-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.966T>A (p.Asp322Glu),Benign,no assertion criteria provided,no,2.00272e-05,found,14-94379563-A-T,,,,0.3192,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1032G>A (p.Gly344=),Likely benign,"criteria provided, single submitter",no,0.000121996,found,14-94379497-C-T,,,,,,,No information
+NM_000295.5(SERPINA1):c.964G>A (p.Asp322Asn),Benign,no assertion criteria provided,no,2.00141e-05,found,14-94379565-C-T,,,,0.1338,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.975C>A (p.Ser325Arg),Benign,no assertion criteria provided,no,4.02868e-05,found,14-94379554-G-T,,,,0.2098,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.835C>A (p.Pro279Thr),Uncertain significance,"criteria provided, single submitter",no,3.93996e-05,found,14-94380953-G-T,,,,0.6582,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.27C>T (p.Ile9=),Likely benign,no assertion criteria provided,no,1.31399e-05,found,14-94383211-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*10G>A,Likely benign,no assertion criteria provided,no,3.29229e-05,found,14-94378439-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.980_981insTA (p.Gly328fs),Benign,no assertion criteria provided,no,0,absent,14-94379549--TA,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1076A>T (p.Lys359Met),Benign,no assertion criteria provided,no,0,found,14-94378630-T-A,,,,0.4060,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.922G>A (p.Ala308Thr),Benign,no assertion criteria provided,no,0,absent,14-94379607-C-T,,,,0.1498,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.923C>T (p.Ala308Val),Benign,no assertion criteria provided,no,0,absent,14-94379606-G-A,,,,0.1398,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.927C>T (p.Ser309=),Likely benign,no assertion criteria provided,no,0,absent,14-94379602-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.-20C>A,Likely benign,no assertion criteria provided,no,0,absent,14-94388575-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.647-13C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.987A>G (p.Gln329=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379542-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-14T>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1065+16C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.917+20G>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.646+15C>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.294T>C (p.Asp98=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382944-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.747C>G (p.Gly249=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381041-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.210C>T (p.Asn70=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383028-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.343C>T (p.Gln115Ter),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382895-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.519C>T (p.Asp173=),Likely benign,"criteria provided, single submitter",no,2.6275e-05,found,14-94382719-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.699C>T (p.His233=),Likely benign,"criteria provided, single submitter",no,0,found,14-94381089-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.917+13C>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.465G>A (p.Leu155=),Likely benign,"criteria provided, single submitter",no,6.56944e-06,found,14-94382773-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.481T>C (p.Leu161=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382757-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.189C>T (p.Arg63=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383049-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-20T>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.24C>T (p.Gly8=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,1.31384e-05,found,14-94383214-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.768T>C (p.Cys256=),Likely benign,"criteria provided, single submitter",no,6.58059e-06,found,14-94381020-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1065+17G>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.27C>A (p.Ile9=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383211-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.627G>C (p.Val209=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382611-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.618T>C (p.Phe206=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382620-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1065+19C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.708G>A (p.Gln236=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381080-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.441C>G (p.Gly147=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382797-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-14_1066-12del,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.646+15C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.30C>T (p.Leu10=),Likely benign,"criteria provided, single submitter",no,6.56935e-06,found,14-94383208-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.111A>G (p.Thr37=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383127-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.771G>A (p.Lys257=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381017-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.963T>C (p.Tyr321=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,3.33067e-05,found,14-94379566-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.943C>T (p.Leu315=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379586-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.423C>A (p.Gly141=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382815-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.372C>A (p.Leu124=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382866-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-5T>G,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1066-15T>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.646+16C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.860T>C (p.Leu287Pro),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94380928-A-G,,,,0.9024,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.825C>T (p.Ile275=),Likely benign,"criteria provided, single submitter",no,1.31416e-05,found,14-94380963-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-17G>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.279G>A (p.Lys93=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382959-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-6C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.646+18G>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.568C>T (p.Gln190Ter),Pathogenic,no assertion criteria provided,no,0,absent,14-94382670-G-A,,,,,,,Insufficient (rarity only)
+GRCh37/hg19 14q31.3-32.33(chr14:88580184-107285437)x3,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q23.1-32.33(chr14:58894502-107227240)x3,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.100A>C (p.Lys34Gln),Uncertain significance,"criteria provided, single submitter",no,6.57013e-06,found,14-94383138-T-G,,,,0.0865,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1155_1156delinsTG (p.Pro386Ala),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378550-GG-CA,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.475A>T (p.Lys159Ter),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382763-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.557del (p.Glu186fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94382681-T-,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1179del (p.Phe394fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94378527-GGG-GG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.216del (p.Asn73fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94383022-GG-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.480del (p.Lys160fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382758-C-,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.155C>T (p.Pro52Leu),Likely pathogenic,"criteria provided, single submitter",no,3.28463e-05,found,14-94383083-G-A,,,,0.1533,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.351_352del (p.His117fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94382886-CA-,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.647-2A>C,Likely pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NC_000014.9:g.94366668G>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.221T>A (p.Ile74Asn),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94383017-A-T,,,,0.4894,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.250_257dup (p.Met87fs),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94382981-GCAAAGGC-GCAAAGGCGCAAAGGC,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1093G>C (p.Asp365His),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378613-C-G,,,,0.4740,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1178C>A (p.Pro393His),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378528-G-T,,,,0.7608,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.921T>C (p.Ser307=),Likely benign,"criteria provided, single submitter",no,6.56901e-06,found,14-94379608-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.959C>A (p.Thr320Asn),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379570-G-T,,,,0.0999,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1139T>C (p.Ile380Thr),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378567-A-G,,,,0.5332,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.997A>T (p.Thr333Ser),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94379532-T-A,,,,0.1209,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.566C>T (p.Thr189Ile),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382672-G-A,,,,0.7582,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.844G>A (p.Gly282Arg),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,1.97151e-05,found,14-94380944-C-T,,,,0.4448,ambiguous,,Insufficient (rarity only)
+NC_000014.8:g.(?_90429459)_(97347545_?)dup,Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NC_000014.8:g.(?_90429459)_(94856914_?)dup,Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.917+9C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.241A>G (p.Ile81Val),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382997-T-C,,,,0.0814,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.415G>T (p.Gly139Cys),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382823-C-A,,,,0.4633,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.136A>G (p.Thr46Ala),Likely benign,"criteria provided, single submitter",no,6.57281e-06,found,14-94383102-T-C,,,,0.0581,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1050C>G (p.Pro350=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379479-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.573G>A (p.Gly191=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382665-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.996C>A (p.Ile332=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94379533-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.246T>C (p.Ala82=),Likely benign,"criteria provided, single submitter",no,3.94135e-05,found,14-94382992-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.853C>T (p.Gln285Ter),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94380935-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.483G>A (p.Leu161=),Likely benign,"criteria provided, single submitter",no,1.31368e-05,found,14-94382755-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.82del (p.Gln28fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94383156-GGGG-GGG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.912C>T (p.Asp304=),Likely benign,"criteria provided, single submitter",no,6.56849e-06,found,14-94380876-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.162G>C (p.Leu54=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383076-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.-5+1G>A,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.819C>A (p.Thr273=),Likely benign,"criteria provided, single submitter",no,6.57229e-06,found,14-94380969-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1023C>T (p.Asp341=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379506-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.561G>A (p.Lys187=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382677-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1092C>A (p.Ile364=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378614-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.856C>T (p.His286Tyr),Likely benign,"criteria provided, single submitter",no,0.000407038,found,14-94380932-G-A,,,,0.0935,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.847A>T (p.Lys283Ter),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94380941-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.435C>T (p.Ser145=),Likely benign,"criteria provided, single submitter",no,2.62591e-05,found,14-94382803-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.891C>G (p.Thr297=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380897-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.555G>A (p.Val185=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382683-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.897C>T (p.Phe299=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380891-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.69G>A (p.Leu23=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383169-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.403C>T (p.Gln135Ter),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382835-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1097A>G (p.Glu366Gly),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94378609-T-C,,,,0.5342,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.237G>A (p.Val79=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383001-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.54G>C (p.Leu18=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383184-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.647-4C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1077G>A (p.Lys359=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378629-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.600T>C (p.Leu200=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382638-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.123T>C (p.Asp41=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383115-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.411C>G (p.Thr137=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382827-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.108T>C (p.Asp36=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383130-A-G,,,,,,,Insufficient (rarity only)
+GRCh37/hg19 14q31.2-32.33(chr14:84537502-107285437)x3,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q31.1-32.2(chr14:81593708-97059276)x3,Likely pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q32.12-32.13(chr14:94637559-95522984)x3,Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1116T>C (p.Ala372=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378590-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.165T>C (p.Ala55=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383073-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1030G>A (p.Gly344Arg),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,7.23294e-05,found,14-94379499-C-T,,,,0.2406,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.876C>T (p.Thr292=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380912-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.67C>T (p.Leu23=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383171-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.558G>A (p.Glu186=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382680-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.542T>C (p.Ile181Thr),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382696-A-G,,,,0.8868,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.528G>A (p.Glu176=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382710-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.463T>C (p.Leu155=),Likely benign,"criteria provided, single submitter",no,1.97099e-05,found,14-94382775-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.354A>G (p.Glu118=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382884-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.673A>T (p.Lys225Ter),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94381115-T-A,,,,,,,Insufficient (rarity only)
+GRCh37/hg19 14q13.3-32.33(chr14:37671058-106985955)x2,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.700G>A (p.Val234Met),Uncertain significance,"criteria provided, single submitter",no,0,found,14-94381088-C-T,,,,0.3270,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1049C>T (p.Pro350Leu),Uncertain significance,"criteria provided, single submitter",no,6.57004e-06,found,14-94379480-G-A,,,,0.1718,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.187C>G (p.Arg63Gly),Uncertain significance,"criteria provided, single submitter",no,6.56909e-06,found,14-94383051-G-C,,,,0.2417,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1244C>T (p.Pro415Leu),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378462-G-A,,,,0.5684,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.717C>T (p.Thr239=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,1.31428e-05,found,14-94381071-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.321C>T (p.Asn107=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382917-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.648C>A (p.Gly216=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381140-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1122C>T (p.Ala374=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378584-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.201C>G (p.His67Gln),Likely benign,"criteria provided, single submitter",no,5.91125e-05,found,14-94383037-G-C,,,,0.1030,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.627G>A (p.Val209=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382611-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.795G>A (p.Leu265=),Likely benign,"criteria provided, single submitter",no,1.31465e-05,found,14-94380993-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.934T>C (p.Leu312=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379595-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.372C>T (p.Leu124=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382866-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.564T>A (p.Gly188=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382674-A-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.738G>A (p.Lys246=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381050-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.66C>T (p.Ser22=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383172-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.647-10C>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1065+7T>C,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.477A>G (p.Lys159=),Likely benign,"criteria provided, single submitter",no,1.31366e-05,found,14-94382761-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.828C>T (p.Phe276=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380960-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1083G>T (p.Val361=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378623-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.318C>T (p.Phe106=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382920-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.393C>T (p.Asp131=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382845-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.805C>T (p.Leu269=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380983-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.138C>G (p.Thr46=),Likely benign,"criteria provided, single submitter",no,6.56883e-06,found,14-94383100-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.999T>C (p.Thr333=),Likely benign,"criteria provided, single submitter",no,0.000100655,found,14-94379530-A-G,,,,,,,No information
+NM_000295.5(SERPINA1):c.647-9del,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.99G>A (p.Gln33=),Likely benign,"criteria provided, single submitter",no,6.57022e-06,found,14-94383139-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.579T>A (p.Ile193=),Likely benign,"criteria provided, single submitter",no,1.31403e-05,found,14-94382659-A-T,,,,,,,Insufficient (rarity only)
+GRCh37/hg19 14q32.12-32.13(chr14:94442454-95185710),Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q32.12-32.13(chr14:94400492-96192218),Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1096G>C (p.Glu366Gln),Likely pathogenic,"criteria provided, single submitter",no,0,absent,14-94378610-C-G,,,,0.4965,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.787del (p.Val263fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94381001-CCC-CC,,,,,,,Insufficient (rarity only)
+NC_000014.8:g.(?_94847198)_(94854896_?)del,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1052del (p.Leu351fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94379477-A-,,,,,,,Insufficient (rarity only)
+NC_000014.8:g.(?_94843455)_(94847488_?)del,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NC_000014.8:g.(?_94843455)_(94854896_?)del,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NC_000014.8:g.(?_93687728)_(95560403_?)del,Likely pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.113C>T (p.Ser38Phe),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,3.9414e-05,found,14-94383125-G-A,,,,0.1232,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.647-71T>C,Benign,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.647-69T>C,Benign,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.917+265T>C,Benign,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.-4-304A>G,Benign,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.917+316C>T,Benign,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1029C>T (p.Ser343=),Benign,"criteria provided, single submitter",no,0.000114971,found,14-94379500-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.135A>C (p.Pro45=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383103-T-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.975C>T (p.Ser325=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379554-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.742T>C (p.Leu248=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381046-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.369C>A (p.Leu123=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382869-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.144C>T (p.Asn48=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383094-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.723G>A (p.Lys241=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381065-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1152C>T (p.Ile384=),Likely benign,"criteria provided, single submitter",no,6.57748e-06,found,14-94378554-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.899T>C (p.Leu300Pro),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380889-A-G,,,,0.4488,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1179C>T (p.Pro393=),Likely benign,"criteria provided, single submitter",no,6.57358e-06,found,14-94378527-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.879C>T (p.His293=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380909-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1176A>G (p.Lys392=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378530-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.714C>T (p.Thr238=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381074-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1225A>G (p.Met409Val),Likely benign,"criteria provided, single submitter",no,1.31522e-05,found,14-94378481-T-C,,,,0.0674,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.681C>G (p.Thr227=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381107-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.681C>T (p.Thr227=),Likely benign,"criteria provided, single submitter",no,4.60502e-05,found,14-94381107-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.396C>T (p.Ser132=),Likely benign,"criteria provided, single submitter",no,6.5716e-06,found,14-94382842-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.470A>G (p.Asp157Gly),Likely benign,"criteria provided, single submitter",no,2.6274e-05,found,14-94382768-T-C,,,,0.1614,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1248C>A (p.Thr416=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378458-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.663C>T (p.Pro221=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381125-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.54G>T (p.Leu18=),Likely benign,"criteria provided, single submitter",no,6.57134e-06,found,14-94383184-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.918-6C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.156C>A (p.Pro52=),Likely benign,"criteria provided, single submitter",no,1.3137e-05,found,14-94383082-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.231C>T (p.Ser77=),Likely benign,"criteria provided, single submitter",no,3.2839e-05,found,14-94383007-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.861G>A (p.Leu287=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380927-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1221C>T (p.Leu407=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378485-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.414C>T (p.Thr138=),Likely benign,"criteria provided, single submitter",no,1.31273e-05,found,14-94382824-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.453G>A (p.Val151=),Likely benign,"criteria provided, single submitter",no,1.31385e-05,found,14-94382785-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1092C>T (p.Ile364=),Likely benign,"criteria provided, single submitter",no,6.57886e-06,found,14-94378614-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.18G>A (p.Ser6=),Likely benign,"criteria provided, single submitter",no,6.57125e-06,found,14-94383220-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.426G>A (p.Leu142=),Likely benign,"criteria provided, single submitter",no,1.96881e-05,found,14-94382812-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1113_1114del (p.Ala372fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94378592-CA-,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.607_608del (p.Asp203fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382630-TCTCT-TCT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1178C>G (p.Pro393Arg),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378528-G-C,,,,0.7146,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1157C>A (p.Pro386His),Uncertain significance,no assertion criteria provided,no,1.31595e-05,found,14-94378549-G-T,,,,0.2625,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.792G>A (p.Leu264=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380996-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-215G>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388770-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*469G>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377980-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*627G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377822-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*696C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377753-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1576G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94376873-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1628G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94376821-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-165A>G,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388720-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1104G>A (p.Gly368=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94378602-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*741C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377708-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*853C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377596-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*946C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377503-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*18A>G,Uncertain significance,"criteria provided, single submitter",no,2.63807e-05,found,14-94378431-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*80C>T,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94378369-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*182C>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378267-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*241G>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378208-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*315T>G,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378134-A-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1061C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377388-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1066G>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377383-C-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1173T>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377276-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*326A>G,Likely benign,"criteria provided, single submitter",no,0,absent,14-94378123-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*371G>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378078-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*410A>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378039-T-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*413C>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378036-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*442A>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378007-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.841G>T (p.Glu281Ter),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94380947-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1070T>C (p.Val357Ala),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378636-A-G,,,,0.2470,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.349C>T (p.His117Tyr),not provided,no classification provided,no,0,absent,14-94382889-G-A,,,,0.5456,ambiguous,,Insufficient (rarity only)
+GRCh37/hg19 14q32.13(chr14:94831963-94934610)x1,Uncertain significance,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q31.2-32.2(chr14:84783523-96907490)x1,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1119G>A (p.Gly373=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378587-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.153C>T (p.Thr51=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383085-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1047A>G (p.Ala349=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379482-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.399G>A (p.Gln133=),Likely benign,"criteria provided, single submitter",no,3.28532e-05,found,14-94382839-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.666T>C (p.Phe222=),Likely benign,"criteria provided, single submitter",no,6.58259e-06,found,14-94381122-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.726G>T (p.Val242=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381062-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.647-8C>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.96C>T (p.Ala32=),Likely benign,"criteria provided, single submitter",no,1.31406e-05,found,14-94383142-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.102G>A (p.Lys34=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,1.31385e-05,found,14-94383136-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.588G>A (p.Leu196=),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382650-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.711G>A (p.Val237=),Likely benign,"criteria provided, single submitter",no,2.63075e-05,found,14-94381077-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.426G>T (p.Leu142=),Likely benign,"criteria provided, single submitter",no,6.5678e-06,found,14-94382812-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1155C>T (p.Pro385=),Likely benign,"criteria provided, single submitter",no,3.28839e-05,found,14-94378551-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.207C>T (p.Ser69=),Likely benign,"criteria provided, single submitter",no,6.56797e-06,found,14-94383031-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.819C>T (p.Thr273=),Likely benign,"criteria provided, multiple submitters, no conflicts",no,2.62688e-05,found,14-94380969-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.918-5G>A,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1069G>A (p.Val357Met),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000138262,found,14-94378637-C-T,,,,0.1370,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.291C>T (p.His97=),Likely benign,"criteria provided, single submitter",no,2.62778e-05,found,14-94382947-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.513C>T (p.Phe171=),Likely benign,"criteria provided, single submitter",no,5.25224e-05,found,14-94382725-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.918-9G>T,Likely benign,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.873C>T (p.Leu291=),Likely benign,"criteria provided, single submitter",no,5.25597e-05,found,14-94380915-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1158C>T (p.Pro386=),Likely benign,"criteria provided, single submitter",no,3.28869e-05,found,14-94378548-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.469G>A (p.Asp157Asn),Likely benign,no assertion criteria provided,no,0,absent,14-94382769-C-T,,,,0.1315,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.958A>C (p.Thr320Pro),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94379571-T-G,,,,0.2764,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.779C>T (p.Ser260Phe),Likely benign,no assertion criteria provided,no,0,absent,14-94381009-G-A,,,,0.2958,likely_benign,BP4,Conflicting signals
+GRCh37/hg19 14q32.12-32.33(chr14:91969028-107285437)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.611_612del (p.Thr204fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382626-TGTGT-TGT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.875C>T (p.Thr292Ile),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,1.31313e-05,found,14-94380913-G-A,,,,0.4693,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.35T>C (p.Leu12Pro),no classification for the single variant,no classification for the single variant,no,6.56901e-06,found,14-94383203-A-G,,,,0.2671,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.297A>C (p.Glu99Asp),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382941-T-G,,,,0.4898,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1132G>A (p.Glu378Lys),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378574-C-T,,,,0.5160,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.833T>C (p.Leu278Pro),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94380955-A-G,,,,0.8854,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.4(SERPINA1):c.[1158dupC;863A>T],Pathogenic,"criteria provided, single submitter",no,0,absent,14-94378548-GGGGGGG-GGGGGGGG,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.[1096G>A;35T>C],Pathogenic,"criteria provided, single submitter",no,0.0121565,found,14-94378610-C-T,,,,,,,Insufficient (frequency unreliable here)
+NM_000295.5(SERPINA1):c.585_586delinsA (p.Asp195fs),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382652-AA-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.654G>T (p.Trp218Cys),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381134-C-A,,,,0.9597,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1014T>A (p.Asn338Lys),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379515-A-T,,,,0.1912,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.761A>G (p.Gln254Arg),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381027-T-C,,,,0.0790,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1121C>A (p.Ala374Asp),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378585-G-T,,,,0.4778,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.244G>C (p.Ala82Pro),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382994-C-G,,,,0.9083,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.339G>T (p.Glu113Asp),Uncertain significance,"criteria provided, single submitter",no,1.31401e-05,found,14-94382899-C-A,,,,0.3839,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.991G>C (p.Gly331Arg),Uncertain significance,"criteria provided, single submitter",no,1.32011e-05,found,14-94379538-C-G,,,,0.6772,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.793C>T (p.Leu265=),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94380995-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1120G>A (p.Ala374Thr),Uncertain significance,"criteria provided, single submitter",no,4.60054e-05,found,14-94378586-C-T,,,,0.1107,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.381C>T (p.Leu127=),Uncertain significance,"criteria provided, single submitter",no,3.28472e-05,found,14-94382857-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.334C>T (p.Pro112Ser),Uncertain significance,"criteria provided, single submitter",no,1.31385e-05,found,14-94382904-G-A,,,,0.0930,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1065+6A>T,Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1156C>T (p.Pro386Ser),Uncertain significance,"criteria provided, single submitter",no,3.28649e-05,found,14-94378550-G-A,,,,0.2120,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.80C>T (p.Pro27Leu),Uncertain significance,"criteria provided, single submitter",no,1.96967e-05,found,14-94383158-G-A,,,,0.0708,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.677A>G (p.Asp226Gly),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94381111-T-C,,,,0.1207,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1206T>C (p.Asn402=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000111773,found,14-94378500-A-G,,,,,,,No information
+NM_000295.5(SERPINA1):c.457A>G (p.Lys153Glu),Uncertain significance,"criteria provided, single submitter",no,1.31377e-05,found,14-94382781-T-C,,,,0.1346,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.41G>T (p.Gly14Val),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383197-C-A,,,,0.1116,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.450A>G (p.Leu150=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.31356e-05,found,14-94382788-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.890C>A (p.Thr297Asn),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94380898-G-T,,,,0.0918,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.899T>G (p.Leu300Arg),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,9.84976e-05,found,14-94380889-A-C,,,,0.1869,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.327G>A (p.Thr109=),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,7.22705e-05,found,14-94382911-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.73G>A (p.Glu25Lys),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94383165-C-T,,,,0.0708,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.497C>A (p.Ala166Asp),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,1.97055e-05,found,14-94382741-G-T,,,,0.5045,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.978C>T (p.Val326=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.31385e-05,found,14-94379551-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.718G>A (p.Val240Met),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000183944,found,14-94381070-C-T,,,,0.2378,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.244G>A (p.Ala82Thr),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000105122,found,14-94382994-C-T,,,,0.1390,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.348C>G (p.Ile116Met),Uncertain significance,"criteria provided, single submitter",no,6.56927e-06,found,14-94382890-G-C,,,,0.2104,likely_benign,BP4,Conflicting signals
+GRCh37/hg19 14q31.2-32.2(chr14:84783137-96908198)x1,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1075A>G (p.Lys359Glu),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,9.21174e-05,found,14-94378631-T-C,,,,0.2633,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.115C>A (p.His39Asn),Likely pathogenic,"criteria provided, single submitter",no,1.31372e-05,found,14-94383123-G-T,,,,0.0784,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1130dup (p.Leu377fs),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378576-AAAAA-AAAAAA,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1066-1G>T,Likely pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.654G>A (p.Trp218Ter),Likely pathogenic,no assertion criteria provided,no,6.58241e-06,found,14-94381134-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.470A>T (p.Asp157Val),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382768-T-A,,,,0.2659,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.879C>A (p.His293Gln),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000466093,found,14-94380909-G-T,,,,0.1066,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.250G>A (p.Ala84Thr),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0.000295357,found,14-94382988-C-T,,,,0.2261,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.54G>A (p.Leu18=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94383184-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.51C>T (p.Cys17=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000531831,found,14-94383187-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.926G>A (p.Ser309Asn),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.31869e-05,found,14-94379603-C-T,,,,0.1040,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.646+5_646+6del,Uncertain significance,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.546C>T (p.Asn182=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000157551,found,14-94382692-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.1065+10C>T,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1134G>A (p.Glu378=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,6.56996e-05,found,14-94378572-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.918-4A>G,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.455A>G (p.Asp152Gly),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382783-T-C,,,,0.0821,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.-4G>A,Uncertain significance,"criteria provided, single submitter",no,0.000183968,found,14-94383241-C-T,,,,,,,No information
+NM_000295.5(SERPINA1):c.324C>T (p.Leu108=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,6.56858e-06,found,14-94382914-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.514G>T (p.Gly172Trp),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000590683,found,14-94382724-C-A,,,,0.1789,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.336G>A (p.Pro112=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,3.94156e-05,found,14-94382902-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.646G>T (p.Gly216Cys),Likely pathogenic,no assertion criteria provided,no,2.62805e-05,found,14-94382592-C-A,,,,0.7148,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.626T>C (p.Val209Ala),Uncertain significance,no assertion criteria provided,no,0,absent,14-94382612-A-G,,,,0.3721,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.436G>A (p.Glu146Lys),Uncertain significance,"criteria provided, single submitter",no,5.2499e-05,found,14-94382802-C-T,,,,0.0739,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.299T>A (p.Ile100Asn),Uncertain significance,no assertion criteria provided,no,0,absent,14-94382939-A-T,,,,0.8277,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.227T>C (p.Phe76Ser),Pathogenic,no assertion criteria provided,no,0,absent,14-94383011-A-G,,,,0.7881,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1del (p.Met1fs),Pathogenic,no assertion criteria provided,no,0,absent,14-94383237-TT-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.169T>C (p.Phe57Leu),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94383069-A-G,,,,0.9143,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1158del (p.Glu387fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378548-GGGGGGG-GGGGGG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1073A>G (p.His358Arg),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94378633-T-C,,,,0.8339,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1072_1073del (p.Val357_His358insTer),Pathogenic,no assertion criteria provided,no,0,absent,14-94378633-TG-,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1064_1066-3del (p.Lys355_Ala356=),Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q11.2-32.33(chr14:20511673-107285437),Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q24.2-32.33(chr14:73750741-107285437)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh37/hg19 14q32.12-32.13(chr14:93498930-96059698)x3,Uncertain significance,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.602A>G (p.Asp201Gly),no classification for the single variant,no classification for the single variant,no,0,absent,14-94382636-T-C,,,,0.1355,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.190C>A (p.Gln64Lys),no classification for the single variant,no classification for the single variant,no,0,absent,14-94383048-G-T,,,,0.0848,likely_benign,BP4,Conflicting signals
+NC_000014.9:g.[94380925T>A;94383048G>T],Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NC_000014.9:g.[94380925T>A;94382636T>C],Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.866dup (p.Asn289fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94380922-TTTT-TTTTT,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.356G>T (p.Gly119Val),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382882-C-A,,,,0.3965,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.538C>G (p.Gln180Glu),Likely benign,"criteria provided, single submitter",no,1.97075e-05,found,14-94382700-G-C,,,,0.0956,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.647del,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.664T>C (p.Phe222Leu),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381124-A-G,,,,0.9724,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.727C>T (p.Pro243Ser),Likely benign,"criteria provided, single submitter",no,6.57704e-06,found,14-94381061-G-A,,,,0.2206,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.878A>G (p.His293Arg),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,6.57229e-06,found,14-94380910-T-C,,,,0.0615,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.894G>T (p.Lys298Asn),Likely benign,"criteria provided, single submitter",no,3.28554e-05,found,14-94380894-C-A,,,,0.1747,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.907G>C (p.Glu303Gln),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380881-C-G,,,,0.1102,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1000A>G (p.Lys334Glu),Likely benign,"criteria provided, single submitter",no,6.58406e-06,found,14-94379529-T-C,,,,0.1273,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1027T>G (p.Ser343Ala),Likely benign,"criteria provided, single submitter",no,1.31634e-05,found,14-94379502-A-C,,,,0.1421,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1136C>A (p.Ala379Asp),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378570-G-T,,,,0.5672,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.1226T>C (p.Met409Thr),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378480-A-G,,,,0.3915,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.880G>A (p.Asp294Asn),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,1.31428e-05,found,14-94380908-C-T,,,,0.0903,likely_benign,BP4,Conflicting signals
+GRCh37/hg19 14q11.2-32.33(chr14:19794561-107234280)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.514G>A (p.Gly172Arg),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.00102385,found,14-94382724-C-T,,,,0.0773,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.186C>A (p.Tyr62Ter),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94383052-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.646+2T>C,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.1018del (p.Ala340fs),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94379511-CCCC-CCC,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.21G>A (p.Trp7Ter),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94383217-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1A>G (p.Met1Val),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94383237-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.714del (p.Thr239fs),Likely pathogenic,no assertion criteria provided,no,0,absent,14-94381074-GG-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.288_291del (p.His97fs),Pathogenic,no assertion criteria provided,no,0,absent,14-94382947-GTGAGTG-GTG,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-223A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94388778-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-208C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94388763-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-191C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388746-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-190G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388745-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-188G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388743-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-176C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388731-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.4(SERPINA1):c.-143C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94388698-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.-10T>C,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94388565-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.-7A>G,Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94388562-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.6G>A (p.Pro2=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,7.22363e-05,found,14-94383232-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.171C>T (p.Phe57=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000321611,found,14-94383067-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.206C>T (p.Ser69Phe),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,7.88188e-05,found,14-94383032-G-A,,,,0.2772,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.211A>C (p.Ser71Arg),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,3.9382e-05,found,14-94383027-T-G,,,,0.2552,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.221TCT[2] (p.Phe76del),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94383009-AGAAGAAGA-AGAAGA,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.333T>G (p.Ile111Met),Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94382905-A-C,,,,0.0780,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.587T>C (p.Leu196Ser),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.97039e-05,found,14-94382651-A-G,,,,0.6310,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.701T>A (p.Val234Glu),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,7.10389e-06,found,14-94381087-A-T,,,,0.6299,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.967C>T (p.Leu323=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,6.56883e-05,found,14-94379562-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1095C>T (p.Asp365=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,3.28878e-05,found,14-94378611-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1C>T,Uncertain significance,"criteria provided, single submitter",no,0.000210136,found,14-94378448-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.*172T>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378277-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*224G>A,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378225-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*263C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378186-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*316G>T,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378133-C-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*400C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378049-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*419C>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378030-G-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*481G>A,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377968-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*500G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377949-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*678C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377771-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*694A>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377755-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*725G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377724-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*792C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377657-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*854T>C,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377595-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*968T>C,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377481-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1067G>A,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377382-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1141A>G,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377308-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1195G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377254-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1221A>G,Benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377228-T-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1235C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377214-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1287G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377162-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1292C>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377157-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1294T>C,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377155-A-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1331G>A,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94377118-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1414G>A,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94377035-C-T,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1494A>T,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94376955-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1555C>T,Likely benign,"criteria provided, single submitter",no,0,absent,14-94376894-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.*1567C>G,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94376882-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.552C>T (p.Tyr184=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,6.57047e-05,found,14-94382686-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.334C>A (p.Pro112Thr),Uncertain significance,"criteria provided, single submitter",no,6.56927e-06,found,14-94382904-G-T,,,,0.0853,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.924C>T (p.Ala308=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000321725,found,14-94379605-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.1177C>T (p.Pro393Ser),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0.000315279,found,14-94378529-G-A,,,,0.4364,ambiguous,,No information
+NM_000295.5(SERPINA1):c.922G>T (p.Ala308Ser),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.00211795,found,14-94379607-C-A,,,,0.1956,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.43C>T (p.Leu15=),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000636767,found,14-94383195-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.740G>A (p.Arg247His),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,5.9149e-05,found,14-94381048-C-T,,,,0.1551,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.976G>A (p.Val326Ile),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000768211,found,14-94379553-C-T,,,,0.0848,likely_benign,BP4,Lean benign
+NM_000295.5(SERPINA1):c.522C>T (p.Thr174=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.00477448,found,14-94382716-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.1068C>T (p.Ala356=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.00821674,found,14-94378638-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.707A>G (p.Gln236Arg),Likely benign,"criteria provided, single submitter",no,7.14296e-06,found,14-94381081-T-C,,,,0.0752,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1208C>T (p.Thr403Ile),Likely benign,"criteria provided, single submitter",no,0,absent,14-94378498-G-A,,,,0.3202,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1093G>T (p.Asp365Tyr),Likely benign,"criteria provided, single submitter",no,6.57393e-06,found,14-94378613-C-A,,,,0.4661,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1064A>G (p.Lys355Arg),Likely benign,"criteria provided, single submitter",no,0,absent,14-94379465-T-C,,,,0.1061,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.879C>G (p.His293Gln),Likely benign,"criteria provided, single submitter",no,0,absent,14-94380909-G-C,,,,0.1066,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.737A>C (p.Lys246Thr),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381051-T-G,,,,0.2240,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.735G>A (p.Met245Ile),Likely benign,"criteria provided, single submitter",no,0,absent,14-94381053-C-T,,,,0.9008,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.631T>C (p.Tyr211His),Likely benign,"criteria provided, single submitter",no,0,absent,14-94382607-A-G,,,,0.4995,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.538C>T (p.Gln180Ter),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94382700-G-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.199C>A (p.His67Asn),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383039-G-T,,,,0.0751,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.102G>T (p.Lys34Asn),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383136-C-A,,,,0.1128,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.89A>T (p.Asp30Val),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383149-T-A,,,,0.0812,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1177C>A (p.Pro393Thr),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0,absent,14-94378529-G-T,,,,0.4541,ambiguous,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.236T>A (p.Val79Glu),Uncertain significance,"criteria provided, single submitter",no,6.56935e-06,found,14-94383002-A-T,,,,0.7477,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.188G>T (p.Arg63Leu),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383050-C-A,,,,0.3019,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.1094A>T (p.Asp365Val),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,1.31434e-05,found,14-94378612-T-A,,,,0.6438,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.180C>G (p.Ser60Arg),Likely benign,"criteria provided, single submitter",no,0,absent,14-94383058-G-C,,,,0.2036,likely_benign,BP4,Conflicting signals
+NM_000295.5(SERPINA1):c.848A>T (p.Lys283Ile),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94380940-T-A,,,,0.5754,likely_pathogenic,PP3,Lean pathogenic
+NM_001127701.1(SERPINA1):c.[187C>T;739C>T],Pathogenic,"criteria provided, single submitter",no,0.00149657,found,14-94383051-G-A,,,,,,,No information
+NM_000295.5(SERPINA1):c.1108_1115delinsAAAAACA (p.Glu370fs),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378591-GCAGCTTC-TGTTTTT,,,,,,,Insufficient (rarity only)
+QOgranite falls allele,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.*5_*14del,Uncertain significance,"criteria provided, single submitter",no,0,absent,14-94378435-GGAGCGAGAGG-G,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1061C>T (p.Ser354Phe),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,0.000203473,found,14-94379468-G-A,,,,0.6951,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.646+1G>T,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,,unmapped,,,,,,,,No information
+NM_000295.5(SERPINA1):c.745G>C (p.Gly249Arg),Likely pathogenic,"criteria provided, single submitter",no,6.57626e-06,found,14-94381043-C-G,,,,0.8438,likely_pathogenic,PP3,Lean pathogenic
+NM_000295.5(SERPINA1):c.552C>G (p.Tyr184Ter),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,1.31409e-05,found,14-94382686-G-C,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.1158dup (p.Glu387fs),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0,absent,14-94378548-GGGGGGG-GGGGGGGG,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.424C>T (p.Leu142=),Benign,"criteria provided, multiple submitters, no conflicts",no,0.0307659,found,14-94382814-G-A,,,,,,,Insufficient (frequency unreliable here)
+NM_000295.5(SERPINA1):c.774G>A (p.Lys258=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.0141557,found,14-94381014-C-T,,,,,,,Insufficient (frequency unreliable here)
+NM_000295.5(SERPINA1):c.840T>C (p.Asp280=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.0380689,found,14-94380948-A-G,,,,,,,Insufficient (frequency unreliable here)
+GRCh38/hg38 14q11.2-32.33(chr14:20043514-106877229)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q24.3-32.33(chr14:77222795-106879298)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q32.12-32.33(chr14:92540983-104863658)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q11.2-32.33(chr14:20151149-106855263)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q24.3-32.33(chr14:73655772-106879298)x3,Pathogenic,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q32.12-32.33(chr14:91455861-106832642)x3,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q31.3-32.33(chr14:86094030-106832642)x3,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+GRCh38/hg38 14q32.11-32.13(chr14:90255156-95274696)x1,Pathogenic,"criteria provided, single submitter",no,,unmapped,,,,,,,,No information
+NM_001127701.1(SERPINA1):c.326C>T (p.Thr109Met),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,6.56392e-05,found,14-94382912-G-A,,,,0.1304,likely_benign,BP4,Conflicting signals
+NM_001127701.1(SERPINA1):c.230C>T (p.Ser77Phe),Pathogenic; other,no assertion criteria provided,no,0,absent,14-94383008-G-A,,,,0.8878,likely_pathogenic,PP3,Lean pathogenic
+PI NULL(RIEDENBURG),other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_001127701.1(SERPINA1):c.347T>A (p.Ile116Asn),Pathogenic; other,no assertion criteria provided,no,0,absent,14-94382891-A-T,,,,0.6155,likely_pathogenic,PP3,Lean pathogenic
+NM_001127701.1(SERPINA1):c.415G>A (p.Gly139Ser),Pathogenic; other,no assertion criteria provided,no,3.28174e-05,found,14-94382823-C-T,,,,0.2068,likely_benign,BP4,Conflicting signals
+NM_000295.4(SERPINA1):c.1078G>A (p.Ala360Thr),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,6.57505e-06,found,14-94378628-C-T,,,,0.2822,likely_benign,BP4,Conflicting signals
+NM_001127701.1(SERPINA1):c.77A>C (p.Asp26Ala),Benign; other,no assertion criteria provided,no,0,absent,14-94383161-T-G,,,,0.0872,likely_benign,BP4,Conflicting signals
+NM_001127701.1(SERPINA1):c.1145T>G (p.Met382Arg),Pathogenic,no assertion criteria provided,no,0,absent,14-94378561-A-C,,,,0.2771,likely_benign,BP4,Conflicting signals
+PI NULL(HONG KONG 1),Pathogenic; other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+PI NULL(PROCIDA),Pathogenic; other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_001127701.1(SERPINA1):c.1131A>T (p.Leu377Phe),other,no assertion criteria provided,no,0,absent,14-94378575-T-A,,,,0.1608,likely_benign,BP4,Conflicting signals
+NM_000295.4(SERPINA1):c.721A>T (p.Lys241Ter),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,6.5754e-06,found,14-94381067-T-A,,,,,,,Insufficient (rarity only)
+NM_000295.5(SERPINA1):c.552del (p.Asp183_Tyr184insTer),Pathogenic,"criteria provided, single submitter",no,0,absent,14-94382686-G-,,,,,,,Insufficient (rarity only)
+NM_001127701.1(SERPINA1):c.839A>T (p.Asp280Val),Pathogenic; other,"criteria provided, multiple submitters, no conflicts",no,0.000334927,found,14-94380949-T-A,,,,0.3008,likely_benign,BP4,Lean benign
+NM_001127701.1(SERPINA1):c.187C>T (p.Arg63Cys),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,0.00149657,found,14-94383051-G-A,,,,0.1714,likely_benign,BP4,Lean benign
+PI NULL(HONG KONG 2),other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+PI M(NICHINAN),other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_001127701.1(SERPINA1):c.194T>C (p.Leu65Pro),Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",no,3.28442e-05,found,14-94383044-A-G,,,,0.6761,likely_pathogenic,PP3,Lean pathogenic
+NM_001127701.1(SERPINA1):c.17C>T (p.Ser6Leu),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,3.94172e-05,found,14-94383221-G-A,,,,0.1329,likely_benign,BP4,Conflicting signals
+NM_001127701.1(SERPINA1):c.863A>T (p.Glu288Val),"Pathogenic/Pathogenic, low penetrance; other","criteria provided, multiple submitters, no conflicts",no,0.028729,found,14-94380925-T-A,,,,0.6396,likely_pathogenic,PP3,Conflicting signals
+NM_001127701.1(SERPINA1):c.1096G>A (p.Glu366Lys),Pathogenic/Likely pathogenic; risk factor,"criteria provided, multiple submitters, no conflicts",no,0.0121565,found,14-94378610-C-T,,,,0.4658,ambiguous,,Insufficient (frequency unreliable here)
+NM_001127701.1(SERPINA1):c.272G>A (p.Gly91Glu),Pathogenic; other,no assertion criteria provided,no,0,absent,14-94382966-C-T,,,,0.9143,likely_pathogenic,PP3,Lean pathogenic
+NM_001127701.1(SERPINA1):c.1178C>T (p.Pro393Leu),Pathogenic,"criteria provided, multiple submitters, no conflicts",no,0.000105202,found,14-94378528-G-A,,,,0.7823,likely_pathogenic,PP3,Lean pathogenic
+NM_001127701.1(SERPINA1):c.1159G>A (p.Glu387Lys),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.000407997,found,14-94378547-C-T,,,,0.1296,likely_benign,BP4,Lean benign
+NM_001127701.1(SERPINA1):c.682G>A (p.Glu228Lys),Uncertain significance,"criteria provided, multiple submitters, no conflicts",no,1.97329e-05,found,14-94381106-C-T,,,,0.0647,likely_benign,BP4,Conflicting signals
+NM_000295.4(SERPINA1):c.1093G>A (p.Asp365Asn),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.000479525,found,14-94378613-C-T,,,,0.2009,likely_benign,BP4,Lean benign
+NM_001127701.1(SERPINA1):c.739C>T (p.Arg247Cys),Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",yes,0.00196532,found,14-94381049-G-A,,,,0.1949,likely_benign,BP4,Lean benign
+PI B(ALHAMBRA),other,no assertion criteria provided,no,,unmapped,,,,,,,,No information
+NM_001127701.1(SERPINA1):c.1200A>C (p.Glu400Asp),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.228401,found,14-94378506-T-G,,,,0.1135,likely_benign,BP4,Lean benign
+NM_001127701.1(SERPINA1):c.374G>A (p.Arg125His),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.12623,found,14-94382864-C-T,,,,0.0591,likely_benign,BP4,Lean benign
+NM_001127701.1(SERPINA1):c.710T= (p.Val237=),Benign,"criteria provided, single submitter",no,0,absent,14-94381078-A-A,,,,,,,Insufficient (rarity only)
+NM_001127701.1(SERPINA1):c.710T>C (p.Val237Ala),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",no,0.298228,found,14-94381078-A-G,,,,0.0645,likely_benign,BP4,Lean benign
