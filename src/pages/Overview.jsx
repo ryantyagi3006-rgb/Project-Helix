@@ -14,6 +14,7 @@ export default function Overview() {
         <p className="sub">Mapping the genetic basis of alpha-1 antitrypsin deficiency, a well established genetic risk factor for COPD.</p>
         <div className="hero-cta">
           <Link className="btn btn-primary" to="/data">View Data</Link>
+          <a className="btn btn-glass" href="https://breathebetter-dpsi.vercel.app/reports" target="_blank" rel="noopener">Read the Research Paper</a>
         </div>
       </header>
 
